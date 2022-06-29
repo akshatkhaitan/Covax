@@ -19,7 +19,7 @@
 ![im1](https://user-images.githubusercontent.com/68317448/176400072-f0a45a00-e35e-46f4-9c3a-344adbb3ea84.png)
 
 
-This was my Database Management Course Project. It is inspired by the co-win portal used by the Goverment of India for the covid vaccination. It has three seperate Login Options : Admin( Government Offificals ) , Vaccination Centers and the Citizens. 
+This was my Database Management Course Project. It is inspired by the co-win portal used by the Goverment of India for the covid vaccination. It has three seperate Login Options : Admin( Government Officials ) , Vaccination Centers and the Citizens. 
 
 * Users can easily manage their bookings and track their vaccine schedule.
 * The users can filter centers according to the vaccine and pincode preference.
@@ -27,7 +27,7 @@ This was my Database Management Course Project. It is inspired by the co-win por
 * The user can raise a complaint, if he/she faces any issue post vaccination.
 * The Vaccination centers can manage bookings in real time. Once the user has been vaccinated the center approves the same and the record is updated.
 * The vaccination Center can order vaccines from the suppkier if it falls short of jabs.
-* The admin is responsible for adition/deletion of vaccination centers if required and gets real time data of all the vaccination centers.
+* The admin is responsible for addition/deletion of vaccination centers if required and gets real time data of all the vaccination centers.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
