@@ -34,8 +34,6 @@ This was my Database Management Course Project. It is inspired by the co-win por
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * [React](https://reactjs.org/)
 * [Express](https://expressjs.com/)
 * [Node JS](https://nodejs.org/en/)
